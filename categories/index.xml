@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on fantastokrat</title>
+    <link>https://fantastokrat.de/categories/</link>
+    <description>Recent content in Categories on fantastokrat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fantastokrat.de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>schmoekern</title>
+      <link>https://fantastokrat.de/categories/schmoekern/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fantastokrat.de/categories/schmoekern/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
