@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fantastokrat.de/</loc>
+    <lastmod>2023-01-04T21:03:38+01:00</lastmod>
+  </url><url>
+    <loc>https://fantastokrat.de/post/</loc>
+    <lastmod>2023-01-04T21:03:38+01:00</lastmod>
+  </url><url>
+    <loc>https://fantastokrat.de/retrospektive/</loc>
+    <lastmod>2023-01-04T21:03:38+01:00</lastmod>
+  </url><url>
     <loc>https://fantastokrat.de/categories/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fantastokrat.de/fantasie/</loc>
-    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fantastokrat.de/</loc>
-    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fantastokrat.de/post/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fantastokrat.de/categories/schmoekern/</loc>
