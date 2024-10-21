@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <CompileGroup Type="BinderItem">EDFED947-3A58-4712-B9E4-27CCBF40E652</CompileGroup>
+            <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>9CC37990-EC42-4B5C-8420-52DBEF214B94</CollectionID>
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72">No</ResampleImages>
+            <PDF>
+                <Cover Source="FrontMatter" Bleed="9.0" BleedUnits="pt"/>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType>None</ImageResolutionCompressionType>
+                    <ImageResolution>300</ImageResolution>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"/>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>Tutorial</ProjectTitle>
+            <ProjectAbbreviatedTitle>Tutorial</ProjectAbbreviatedTitle>
+            <Authors>
+                <Author FileAs="Blount, Keith" Role="aut">Keith Blount</Author>
+            </Authors>
+            <Surname>Blount</Surname>
+            <Forename>Keith</Forename>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>pdf</CurrentFileType>
+    <FormatSettings/>
+    <LastUsedFormats>
+        <Print>DEFAULT</Print>
+        <pdf>DEFAULT</pdf>
+    </LastUsedFormats>
+</CompileSettings>
