@@ -607,7 +607,36 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
       <description>&lt;p&gt;Pizza-Bingo ist ein lustiges Spiel, wenn nicht das lustigste Spiel seit es lustige Spiele gibt, das aus einem langweiligen Fernsehabend einen illustre Party-Abend werden lässt, an dessem Ende alle gesättigt einschlafen werden.&lt;/p&gt;
 &lt;p&gt;Du brauchst nicht mehr als die Menükarte deines Lieblings-Pizza-Dienstes.  (Alternativ kannst du die Zutaten auch einkaufen und ihr bereitet die Pizzen in deiner eigenen Küche zu, das kostet aber mehr Zeit und die Küche sieht danach mindestens aus wie Sau.)&lt;/p&gt;
 &lt;p&gt;Schreibe alle Zutaten auf, die diese Pizzeria für ihre kulinarischen Freudenbringer anbietet. Aber schreibe sie nicht einfach auf eine abgerissene Ecke der Wochenzeitung von letzter Woche: Erstelle eine saubere, gut lesbare Liste der verfügbaren Pizza-Rohstoffe:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Avocado&lt;/th&gt;
+          &lt;th&gt;Lachs&lt;/th&gt;
+          &lt;th&gt;Walhai&lt;/th&gt;
+          &lt;th&gt;Tomaten&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ananas&lt;/td&gt;
+          &lt;td&gt;Anchovis&lt;/td&gt;
+          &lt;td&gt;Salami&lt;/td&gt;
+          &lt;td&gt;Schinken&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Rotkohl&lt;/td&gt;
+          &lt;td&gt;Hünchen&lt;/td&gt;
+          &lt;td&gt;Rind&lt;/td&gt;
+          &lt;td&gt;Schweinefleisch&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Snickers&lt;/td&gt;
+          &lt;td&gt;Erdbeeren&lt;/td&gt;
+          &lt;td&gt;Plokwurst&lt;/td&gt;
+          &lt;td&gt;Kopi Luwak&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;Nun teile unter den hungrigen Party-Gästen Bingo-Karten mit 9 Feldern aus. Die Gäste tragen ihrerseits 9 der zuvor identifizierten Pizza-Zutaten in diese Karten ein. Danach bestellt jeder die Pizza seines Verlangens. Jetzt heißt es Warten.&lt;/p&gt;
 &lt;p&gt;Sobald die Pizza eintrifft, bitte deine Gäste noch um etwas Geduld. Die Kartons werden auf einem Stapel gesammelt und der erste Gast beginnt damit, den obersten Karton zu öffnen und die Zutaten in der Reihenfolge seiner Wahl aufzuzählen. Die anderen Gäste haken die Zutaten auf ihren Bingo-Karten ab. (Variation: Auch der Gast, der die Zutaten identifiziert, darf seine Bingo-Karte ausfüllen oder es wird ein satter Spielleiter, der diese Aufgabe für alle Pizzen übernimmt.)&lt;/p&gt;
 &lt;p&gt;So geht es reih um weiter. Wer zu erst alle Zutaten auf seiner Bingo-karte in der Wagerechten, Senkrechten oder Diagonalen abgehakt hat, gewinnt das Spiel und darf seine Pizza essen, die außerdem von allen anderne bezahlt wird.&lt;/p&gt;
@@ -675,7 +704,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
       <guid>https://fantastokrat.de/23/</guid>
       
       <description>&lt;p&gt;Heute ist der 8.5.2019. Die Quersumme ist 25. Der Art. 25 GG enthält ebenfalls 25 Wörter. 25 x 25 = 6.25. Der 25.6. ist der 176 Tag des gregorianischen Kalenders. 176 cm entsprechen 5,77428 Fuß - 577428 ist die Postleitzahl von Shivamogga, dessen offizielle Bezeichnugn bis 2014 Shimoga war! Die bniäre Entsprechung davon ist 01010011011010000110100101101101011011110110011101100001 - das sind 30 mal die Ziffer 1. Drei ist die erste Fermat-Primzahl - benannt nach dem Franzosen Pierre de Fermat, ein französischer Mathematiker, der am 12. Januar 1665 starb - ein Montag. Heute ist Mittwoch, beide Tage beginnen mit einem M. M&amp;amp;M&amp;rsquo;s ist eine Marke der Firma Mars, was gleichzeitig der 4. Planet in unserem Sonnensystem ist. Und welcher Buchstabe steht an vierter Stelle in unserem Alphabet? Das D! Das D geht auf den proto-semitschen Fisch zurück. Fische! In dieses Sternzeichen werden Menschen zwischen dem 20.2. und dem 20.3. geboren. Und die Summe von 20, 2, 20 und 3 ist 45. Und was ist der 45. Tag im Jahr? Der 14. Februar, in der 7. Woche. 14 + 2+ 7 ist 23!&lt;/p&gt;
-&lt;p&gt;23. Die Zahl der Illuminaten. Zufall? Fragen.&lt;/p&gt;
+&lt;ol start=&#34;23&#34;&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Die Zahl der Illuminaten. Zufall? Fragen.&lt;/p&gt;
 </description>
       
     </item>
