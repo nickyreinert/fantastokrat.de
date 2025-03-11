@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on fantastokrat</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://fantastokrat.de/categories/</link>
     <description>Recent content in Categories on fantastokrat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 06 Jan 2023 01:01:12 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 01:01:12 +0100</lastBuildDate><atom:link href="https://fantastokrat.de/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Schmoekern</title>
-      <link>http://localhost:1313/categories/schmoekern/</link>
+      <link>https://fantastokrat.de/categories/schmoekern/</link>
       <pubDate>Fri, 06 Jan 2023 01:01:12 +0100</pubDate>
       
-      <guid>http://localhost:1313/categories/schmoekern/</guid>
+      <guid>https://fantastokrat.de/categories/schmoekern/</guid>
       
       <description></description>
       
