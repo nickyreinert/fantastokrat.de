@@ -133,3 +133,50 @@
 .content ol, .content ul {
     margin-left: 1.5rem;
 }
+
+.link-nav {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 35%; /* Adjusted width */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    text-decoration: none;
+    color: #AA0000;
+    font-size: 2rem;
+    pointer-events: auto; /* Ensure links are clickable */
+}
+
+.link-nav:hover {
+    cursor: pointer;
+}
+
+.link-nav-left {
+    left: 0;
+    transition: left 0.3s;
+}
+
+.link-nav-left:hover {
+    border-left: 25px solid #AA0000;
+    left: -10px;
+}
+
+.link-nav-right {
+    right: 0;
+    transition: right 0.3s;
+}
+
+.link-nav-right:hover {
+    border-right: 25px solid #AA0000;
+    right: -10px;
+}
+
+.paginator {
+    pointer-events: none; /* Allow clicks to pass through */
+}
+
+.paginator a {
+    pointer-events: auto; /* Ensure paginator links are clickable */
+}

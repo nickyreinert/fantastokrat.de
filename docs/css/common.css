@@ -81,7 +81,25 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: 5px solid #000;
+    outline: 50px solid #ababab;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    animation: pulseOutline 3s infinite;
 }
+
+@keyframes pulseOutline {
+    0% {
+        outline-color: #ababab;
+    }
+    50% {
+        outline-color: #123123;
+    }
+    100% {
+        outline-color: #ababab;
+    }
+}
+
 time {
     color: gray;
     margin-left: 1rem;
@@ -102,14 +120,23 @@ time {
     color: #AA0000;
     text-decoration: underline;
 }
-
 .paginator {
     align-items: flex-end;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    margin-top: 2rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
 }
+
+/* .paginator:hover {
+    background-color: lightgray;
+    cursor: pointer;
+} */
 
 ::-webkit-scrollbar {
     background-color: #FAFAFA;
