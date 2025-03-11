@@ -84,8 +84,9 @@ img {
     border: 1px solid #AA0000;
     margin-top: 5rem;
     margin-bottom: 5rem;
+    max-width: 100%; /* Ensure images fit to screen */
+    height: auto;
 }
-
 
 time {
     color: gray;
@@ -186,8 +187,9 @@ time {
     bottom: 0;
     left: 0;
     right: 0;
-    top: 0;
     width: 100%;
+    z-index: 1000; /* Ensure paginator is on top */
+    background-color: white; /* White background for navigation arrows */
 }
 
 /* .paginator:hover {
@@ -298,4 +300,67 @@ h1 {
 
 #footer > .footnote {
     text-align: center;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+    #header > div {
+        font-size: 1.5rem;
+    }
+
+    #header > nav > span > a {
+        font-size: 1rem;
+    }
+
+    #main {
+        padding: 1rem 0;
+        width: calc(100% - 1rem);
+        margin-bottom: 60px; /* Add bottom margin to avoid content being hidden */
+    }
+
+    .link-nav {
+        width: 50%; /* Adjust width for mobile */
+        font-size: 1.5rem;
+        position: fixed;
+        bottom: 0;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: white; /* White background for navigation arrows */
+    }
+
+    .link-nav-left {
+        left: 0;
+    }
+
+    .link-nav-right {
+        right: 0;
+    }
+
+    .link-nav-left:hover, .link-nav-right:hover {
+        border-width: 0; /* Remove border on hover for mobile */
+    }
+
+    .paginator {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        bottom: 0;
+        top: auto;
+    }
+
+    .paginator a {
+        width: 50%;
+        text-align: center;
+        padding: 1rem 0;
+    }
+
+    .content {
+        margin-bottom: 60px; /* Add bottom margin to avoid content being hidden */
+    }
+
+    #footer {
+        margin-bottom: 60px; /* Add bottom margin to footer */
+    }
 }

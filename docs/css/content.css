@@ -110,6 +110,7 @@ a.link-footnote:hover::after {
 
 .content img {
     max-width: 100%;
+    height: auto; /* Ensure images fit to screen */
 }
 
 .content p {
@@ -205,9 +206,76 @@ link-nav-left:hover::before, .link-nav-left:hover::after, .link-nav-right:hover:
 }
 
 .paginator {
-    pointer-events: none; /* Allow clicks to pass through */
+    bottom: 0; /* Stick to the bottom of the screen */
+    position: fixed;
+    top: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white; /* White background for navigation arrows */
+    z-index: 1000; /* Ensure paginator is on top */
 }
 
 .paginator a {
     pointer-events: auto; /* Ensure paginator links are clickable */
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+    .link-nav {
+        width: 50%; /* Adjust width for mobile */
+        font-size: 1.5rem;
+        position: fixed;
+        bottom: 0;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: white; /* White background for navigation arrows */
+        top: auto; /* Ensure it sticks to the bottom */
+    }
+
+    .link-nav-left:hover::before, .link-nav-left:hover::after, .link-nav-right:hover::before, .link-nav-right:hover::after {
+        content: "";
+        transition: none;
+    }
+
+    .link-nav-left {
+        left: 0;
+    }
+
+    .link-nav-right {
+        right: 0;
+    }
+
+    .link-nav-left:hover, .link-nav-right:hover {
+        border-width: 0; 
+        transition:  none;
+
+    }
+
+    .paginator {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        bottom: 0;
+        top: auto;
+        background-color: #FFF;
+    }
+
+    .paginator a {
+        width: 50%;
+        text-align: center;
+        padding: 1rem 0;
+    }
+
+    .content {
+        margin-bottom: 60px; /* Add bottom margin to avoid content being hidden */
+    }
+
+    #footer {
+        margin-bottom: 60px; /* Add bottom margin to footer */
+    }
 }
