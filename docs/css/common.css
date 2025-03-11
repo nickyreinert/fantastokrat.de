@@ -77,6 +77,11 @@ a {
     text-decoration: none;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 time {
     color: gray;
     margin-left: 1rem;
