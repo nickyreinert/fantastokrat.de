@@ -23,12 +23,30 @@ article {
     text-decoration: underline;
 }
 
-.content a.footnote-ref::before {
+
+a.link-footnote {
+    color: #AA0000;
+
+}
+
+a.link-footnote::before {
+    color: #AA0000;
     content: "[";
 }
 
-.content a.footnote-ref::after {
+a.link-footnote::after {
+    color: #AA0000;
     content: "]";
+}
+
+a.link-footnote:hover::before {
+    content: "[" !important;
+    transition: none;
+}
+
+a.link-footnote:hover::after {
+    content: "]" !important;
+    transition: none;
 }
 
 .content blockquote,
@@ -142,7 +160,7 @@ article {
     position: fixed;
     top: 0;
     bottom: 0;
-    width: 35%; /* Adjusted width */
+    width: 5%; /* Adjusted width */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -151,6 +169,11 @@ article {
     color: #AA0000;
     font-size: 2rem;
     pointer-events: auto; /* Ensure links are clickable */
+}
+
+.link-nav::before, .link-nav::after, .link-nav-left::before, .link-nav-left::after, .link-nav-right::before, .link-nav-right::after,
+link-nav-left:hover::before, .link-nav-left:hover::after, .link-nav-right:hover::before, .link-nav-right:hover::after {
+    content: "";
 }
 
 .link-nav:hover {
@@ -165,6 +188,8 @@ article {
 .link-nav-left:hover {
     border-left: 25px solid #AA0000;
     left: -10px;
+    border-top: 25px solid #AA0000;
+    border-bottom: 25px solid #AA0000;
 }
 
 .link-nav-right {
@@ -174,6 +199,8 @@ article {
 
 .link-nav-right:hover {
     border-right: 25px solid #AA0000;
+    border-top: 25px solid #AA0000;
+    border-bottom: 25px solid #AA0000;
     right: -10px;
 }
 

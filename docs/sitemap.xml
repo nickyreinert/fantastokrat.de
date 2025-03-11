@@ -2,147 +2,156 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fantastokrat.de/der-baum/</loc>
-    <lastmod>2025-03-10T21:03:19+01:00</lastmod>
-  </url><url>
-    <loc>https://fantastokrat.de/</loc>
-    <lastmod>2025-03-10T21:03:19+01:00</lastmod>
-  </url><url>
-    <loc>https://fantastokrat.de/post/</loc>
-    <lastmod>2025-03-10T21:03:19+01:00</lastmod>
-  </url><url>
-    <loc>https://fantastokrat.de/100.000-jahre/</loc>
+    <loc>http://localhost:1313/100.000-jahre/</loc>
     <lastmod>2025-03-06T21:02:30+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/geschirrsp%C3%BCler/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-06T21:02:30+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-03-06T21:02:30+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/geschirrsp%C3%BCler/</loc>
     <lastmod>2025-03-03T21:02:30+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/die-reise/</loc>
+    <loc>http://localhost:1313/die-reise/</loc>
     <lastmod>2025-03-01T21:03:19+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/die-rezension/</loc>
+    <loc>http://localhost:1313/die-rezension/</loc>
     <lastmod>2025-02-27T21:03:19+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/showerthoughts/</loc>
+    <loc>http://localhost:1313/showerthoughts/</loc>
     <lastmod>2025-02-02T12:34:56+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/der-anfang-1/x/</loc>
+    <loc>http://localhost:1313/xmas/</loc>
+    <lastmod>2024-12-24T00:24:49+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/kommunikation/</loc>
+    <lastmod>2024-09-18T00:24:49+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/der-anfang-1/x/</loc>
     <lastmod>2024-09-08T00:24:49+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/der-anfang-2/x/</loc>
+    <loc>http://localhost:1313/der-anfang-2/x/</loc>
     <lastmod>2024-09-08T00:24:49+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/ki/</loc>
+    <loc>http://localhost:1313/ki/</loc>
     <lastmod>2023-03-28T23:06:02+02:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/mario/</loc>
+    <loc>http://localhost:1313/mario/</loc>
     <lastmod>2023-01-08T00:24:49+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/talent/</loc>
+    <loc>http://localhost:1313/talent/</loc>
     <lastmod>2023-01-08T00:24:49+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/retrospektive/</loc>
+    <loc>http://localhost:1313/retrospektive/</loc>
     <lastmod>2023-01-06T23:10:27+02:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2023-01-06T01:01:12+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/categories/schmoekern/</loc>
+    <loc>http://localhost:1313/categories/schmoekern/</loc>
     <lastmod>2023-01-06T01:01:12+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/schorsch-der-froschk%C3%B6nig/</loc>
+    <loc>http://localhost:1313/schorsch-der-froschk%C3%B6nig/</loc>
     <lastmod>2023-01-06T01:01:12+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/fantasie/</loc>
+    <loc>http://localhost:1313/fantasie/</loc>
     <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/asphalt/</loc>
+    <loc>http://localhost:1313/asphalt/</loc>
     <lastmod>2021-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/der-heidelbeer-pfad/</loc>
+    <loc>http://localhost:1313/der-heidelbeer-pfad/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/das-geheime-leben-der-buchstaben/</loc>
+    <loc>http://localhost:1313/das-geheime-leben-der-buchstaben/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/ein-stein-2/</loc>
+    <loc>http://localhost:1313/ein-stein-2/</loc>
     <lastmod>2021-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/die-jurke-der-gerechtigkeit/</loc>
+    <loc>http://localhost:1313/cyberfunk/</loc>
+    <lastmod>2020-12-10T12:34:56+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/die-jurke-der-gerechtigkeit/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/ein-stein-1/</loc>
+    <loc>http://localhost:1313/ein-stein-1/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/molukken/</loc>
+    <loc>http://localhost:1313/molukken/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/schafe/</loc>
+    <loc>http://localhost:1313/schafe/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/2020/</loc>
+    <loc>http://localhost:1313/2020/</loc>
     <lastmod>2020-01-01T12:34:56+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/dein-verhalten.../</loc>
+    <loc>http://localhost:1313/dein-verhalten.../</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/f%C3%BCnf-minuten/</loc>
+    <loc>http://localhost:1313/f%C3%BCnf-minuten/</loc>
     <lastmod>2019-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/1-farbe-und-ihre-geschichte-magenta/</loc>
+    <loc>http://localhost:1313/1-farbe-und-ihre-geschichte-magenta/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/1-farbe-und-ihre-geschichte-rot/</loc>
+    <loc>http://localhost:1313/1-farbe-und-ihre-geschichte-rot/</loc>
     <lastmod>2019-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/pingo-pizza-bingo/</loc>
+    <loc>http://localhost:1313/pingo-pizza-bingo/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/freiheit-f%C3%BCr-die-ohren-manifest/</loc>
+    <loc>http://localhost:1313/freiheit-f%C3%BCr-die-ohren-manifest/</loc>
     <lastmod>2019-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/23/</loc>
+    <loc>http://localhost:1313/23/</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/cholesterin/</loc>
+    <loc>http://localhost:1313/cholesterin/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/dialog/</loc>
+    <loc>http://localhost:1313/dialog/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/yaka-yaka./</loc>
+    <loc>http://localhost:1313/yaka-yaka./</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/zitat/</loc>
+    <loc>http://localhost:1313/zitat/</loc>
     <lastmod>2019-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/fleischw%C3%BCrste/</loc>
+    <loc>http://localhost:1313/fleischw%C3%BCrste/</loc>
     <lastmod>2018-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/willkommen-in-berlin/</loc>
+    <loc>http://localhost:1313/willkommen-in-berlin/</loc>
     <lastmod>2018-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/ein-sprichwort/</loc>
+    <loc>http://localhost:1313/ein-sprichwort/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/zahnarzt/</loc>
+    <loc>http://localhost:1313/zahnarzt/</loc>
     <lastmod>2018-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/kyffh%C3%A4userkreis/</loc>
+    <loc>http://localhost:1313/kyffh%C3%A4userkreis/</loc>
     <lastmod>2018-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/mostbahnhof/</loc>
+    <loc>http://localhost:1313/mostbahnhof/</loc>
     <lastmod>2018-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/ein-wurm/</loc>
+    <loc>http://localhost:1313/ein-wurm/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/das-v%C3%BCrstchen-die-vegetarische-wurst/</loc>
-    <lastmod>2016-09-17T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/birds-arent-real/</loc>
+    <lastmod>2016-05-30T12:34:56+01:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/schokorosinen/</loc>
+    <loc>http://localhost:1313/schokorosinen/</loc>
     <lastmod>2015-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fantastokrat.de/tags/</loc>
+    <loc>http://localhost:1313/alphabet/</loc>
+    <lastmod>2015-06-03T00:24:49+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

@@ -2,36 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fantastokrat</title>
-    <link>https://fantastokrat.de/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on fantastokrat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 10 Mar 2025 21:03:19 +0100</lastBuildDate><atom:link href="https://fantastokrat.de/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Der Baum</title>
-      <link>https://fantastokrat.de/der-baum/</link>
-      <pubDate>Mon, 10 Mar 2025 21:03:19 +0100</pubDate>
-      
-      <guid>https://fantastokrat.de/der-baum/</guid>
-      
-      <description>&lt;p&gt;Die Sonne brennt auf der knorrigen Haut. Das ist sehr angenehm. Ich mag den Sommer.&lt;/p&gt;
-&lt;p&gt;Nein.&lt;/p&gt;
-&lt;p&gt;Ich liebe ihn. Ich genieße es zwischen Asphalt und Gehweg zu stehen und in den Himmel zu schauen, während sich auf der einen Seite die stählerne Schlange rauchend und hupend an mir vorbei schiebt und auf der anderen Seite Touristen und Einheimische versuchen den besten Sitzplatz im Café zu erobern. Dort sitzen sie dann, auf wackligen Blechstühlen und  beobachten Ihresgleichen beim Kampf um den ersten Platz an der Ampel. Trinken veganen Café aus Pappbechern, die sie später lieblos zurücklassen. Müßiggang und Eifer liegen so nahe beieinander.&lt;/p&gt;
-&lt;p&gt;Zwei Aufgänge weiter spendete ein haushohes Gerüst Schatten, den keiner braucht. Hier gibt es keine Sitzplatzkonkurrenz, nur ein paar herrenlose, brüchige Holzstühle. In Erwartung ihres nächsten, hoffentlich gnädigen und handwerklich begabten Besitzers oder der unbarmherzigen Möbelpresse, die sie zusammen mit den anderen fauligen, zerbrochenen Möbelträumen ihrer letzten Bestimmung zuführen wird.&lt;/p&gt;
-&lt;p&gt;Ein paar Vögel kommentieren das Spektakel lautstark, doch gegen den Lärm der Stadt kommen Sie nicht an.&lt;/p&gt;
-&lt;p&gt;Die Luft ist dieser Tage wieder voller Kohlendioxid, das ich hungrig einsauge und mit den heißen Sonnenstrahlen verdaue. Übrig bleibt nur etwas Sauerstoff, den sie so lieben. Und brauchen. Ihre Dankbarkeit, allerdings, hält sich in Grenzen.
-wieder reichhaltig vorhanden. Behäbig strecke ich meine zahlreichen Arme gen Himmel, um es einzusagen.&lt;/p&gt;
-&lt;p&gt;Ein Sprichwort der Menschen sagt, entweder bist du der Baum, oder der Hund. Ich bin der Baum.&lt;/p&gt;
-</description>
-      
-    </item>
-    
+    <lastBuildDate>Thu, 06 Mar 2025 21:02:30 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>100.000 Jahre</title>
-      <link>https://fantastokrat.de/100.000-jahre/</link>
+      <link>http://localhost:1313/100.000-jahre/</link>
       <pubDate>Thu, 06 Mar 2025 21:02:30 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/100.000-jahre/</guid>
+      <guid>http://localhost:1313/100.000-jahre/</guid>
       
       <description>&lt;p&gt;&lt;strong&gt;WIP&lt;/strong&gt;
 &lt;em&gt;Das ist eine erweiterte Plot-Notiz, die im Stil noch angepasst wird&lt;/em&gt;&lt;/p&gt;
@@ -95,10 +76,10 @@ Kaum jemand verbrachte noch Zeit  in der Realität, geschweige denn auf den Stä
     
     <item>
       <title>Geschirrspüler</title>
-      <link>https://fantastokrat.de/geschirrsp%C3%BCler/</link>
+      <link>http://localhost:1313/geschirrsp%C3%BCler/</link>
       <pubDate>Mon, 03 Mar 2025 21:02:30 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/geschirrsp%C3%BCler/</guid>
+      <guid>http://localhost:1313/geschirrsp%C3%BCler/</guid>
       
       <description>&lt;p&gt;Ich gehöre zur Generation Tetris. Diese kleine russische Perle der Spielegeschichte hat mein Handeln geprägt. Wenn ich viele unterschiedlich große Dinge in ein ganz großes Ding packen muss, verrichte ich das mit einem unübertroffenen Eifer, dem unbedingten Willen zum herausragenden Erfolg  und natürlich in kürzester Zeit.&lt;/p&gt;
 &lt;p&gt;Das passiert in vielen Lebenslagen. Milch und Äpfel in die Einkaufstasche sortieren. Den Kofferraum mit Urlaubssachen beladen. Oder den Geschirrspüler einräumen.&lt;/p&gt;
@@ -118,10 +99,10 @@ Kaum jemand verbrachte noch Zeit  in der Realität, geschweige denn auf den Stä
     
     <item>
       <title>Die Reise</title>
-      <link>https://fantastokrat.de/die-reise/</link>
+      <link>http://localhost:1313/die-reise/</link>
       <pubDate>Sat, 01 Mar 2025 21:03:19 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/die-reise/</guid>
+      <guid>http://localhost:1313/die-reise/</guid>
       
       <description>&lt;blockquote&gt;
 &lt;p&gt;Geschmeidigkeit ist eine Eigenschaft, die einem Fleischwolf von Welt nicht gut zu Gesichte steht&amp;lt;&lt;/p&gt;
@@ -135,10 +116,10 @@ Kaum jemand verbrachte noch Zeit  in der Realität, geschweige denn auf den Stä
     
     <item>
       <title>Die Rezension</title>
-      <link>https://fantastokrat.de/die-rezension/</link>
+      <link>http://localhost:1313/die-rezension/</link>
       <pubDate>Thu, 27 Feb 2025 21:03:19 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/die-rezension/</guid>
+      <guid>http://localhost:1313/die-rezension/</guid>
       
       <description>&lt;p&gt;Angesichts der vielen unterschiedlichen Bewertungen habe ich mich sehr schwer getan eine endgültige Entscheidung zu treffen - nun war es aber doch endlich soweit. Ich bin stolzer Besitzer von Baby 1.0 und ich vergebe glatte 4/5 Sterne. Kurz zu den einzelnen Kategorien:&lt;/p&gt;
 &lt;p&gt;Grafik&lt;/p&gt;
@@ -157,10 +138,10 @@ Kaum jemand verbrachte noch Zeit  in der Realität, geschweige denn auf den Stä
     
     <item>
       <title>showerthoughts</title>
-      <link>https://fantastokrat.de/showerthoughts/</link>
+      <link>http://localhost:1313/showerthoughts/</link>
       <pubDate>Sun, 02 Feb 2025 12:34:56 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/showerthoughts/</guid>
+      <guid>http://localhost:1313/showerthoughts/</guid>
       
       <description>&lt;p&gt;Ist dir schon mal aufgefallenaufgefallen, dass man &lt;strong&gt;Zeit&lt;/strong&gt; bzw. den &lt;strong&gt;Zeitverlauf&lt;/strong&gt; sehen aber nicht hören kann? Stell dir vor, du bearbeitest ein Video. Über kleine Vorschau-Bildchen siehst du auf den ersten Blick, was in dieesm Video passiert. Du siehst dadurch ziemlich genau, wie die Handlung des Videos ist. Der gesamte Verlauf des Videos kann in einem statischen Anblick erfasst werden.&lt;/p&gt;
 &lt;p&gt;Bei einem Musikstück funktioniert das nicht. Du kannst es nicht so präsentieren, dass es mit einem Mal erfasst werde kann. Du könntest es dir als Welle anzeigen lassen, aber das wäre ja auch nur eine visuelle Darstellung. Aber du kannst nicht zehn Ausschnitte aus dem Musikstück gleichzeitig in den Raum stellen, um so das Stück im Ganzen zuerfassen.&lt;/p&gt;
@@ -169,11 +150,37 @@ Kaum jemand verbrachte noch Zeit  in der Realität, geschweige denn auf den Stä
     </item>
     
     <item>
+      <title>**xmas**</title>
+      <link>http://localhost:1313/xmas/</link>
+      <pubDate>Tue, 24 Dec 2024 00:24:49 +0100</pubDate>
+      
+      <guid>http://localhost:1313/xmas/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;xmas-1.png&#34; alt=&#34;xmas 1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;xmas-2.png&#34; alt=&#34;xmas 2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;xmas-3.png&#34; alt=&#34;xmas 3&#34;&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>**kommunikation**</title>
+      <link>http://localhost:1313/kommunikation/</link>
+      <pubDate>Wed, 18 Sep 2024 00:24:49 +0100</pubDate>
+      
+      <guid>http://localhost:1313/kommunikation/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;kommunikation.png&#34; alt=&#34;Kommunikation&#34;&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>Der Anfang - 1/x</title>
-      <link>https://fantastokrat.de/der-anfang-1/x/</link>
+      <link>http://localhost:1313/der-anfang-1/x/</link>
       <pubDate>Sun, 08 Sep 2024 00:24:49 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/der-anfang-1/x/</guid>
+      <guid>http://localhost:1313/der-anfang-1/x/</guid>
       
       <description>&lt;p&gt;&amp;hellip;eines Abenteuers&lt;/p&gt;
 &lt;p&gt;Am Strand erwartet mich eine knurrende Familie von Seekühen. Kann ich ihnen trauen oder trachten sie mir nach dem Leben? Ich schlage ein paar grobe Haken in den feinen Sand, um ihnen auszuweichen und zu den Wellen zu gelangen.&lt;/p&gt;
@@ -183,10 +190,10 @@ Kaum jemand verbrachte noch Zeit  in der Realität, geschweige denn auf den Stä
     
     <item>
       <title>Der Anfang - 2/x</title>
-      <link>https://fantastokrat.de/der-anfang-2/x/</link>
+      <link>http://localhost:1313/der-anfang-2/x/</link>
       <pubDate>Sun, 08 Sep 2024 00:24:49 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/der-anfang-2/x/</guid>
+      <guid>http://localhost:1313/der-anfang-2/x/</guid>
       
       <description>&lt;p&gt;&amp;hellip;eines Abenteuers&lt;/p&gt;
 &lt;p&gt;Auf einem dieser Planeten begegne ich einer mir bisher unbekannten Lebensform&amp;hellip; der Hals mündet in einem großen Fuß an dessen Zehen jeweils ein Auge sitzt, an der Ferse befindet sich genau ein Ohr. Am anderen Ende prangt ein großer, kräftiger, stark behaarter Schädel, aber ohne Gesicht. Die Stirn ist abgewetzt und ledrig.&lt;/p&gt;
@@ -196,10 +203,10 @@ Kaum jemand verbrachte noch Zeit  in der Realität, geschweige denn auf den Stä
     
     <item>
       <title>KI</title>
-      <link>https://fantastokrat.de/ki/</link>
+      <link>http://localhost:1313/ki/</link>
       <pubDate>Tue, 28 Mar 2023 23:06:02 +0200</pubDate>
       
-      <guid>https://fantastokrat.de/ki/</guid>
+      <guid>http://localhost:1313/ki/</guid>
       
       <description>&lt;p&gt;Die Angst vor KI ist unbegründet aber vermutlich auch Folge eine Angst vor technologischem Fortschritt. KI wird viele Bereiche des Lebens massiv verändern und das ist nicht per se schlecht: Kunst, Arbeitswelt, Bildung, Konsumverhalten und vermutlich noch mehr.&lt;/p&gt;
 &lt;h2 id=&#34;kunst&#34;&gt;Kunst&lt;/h2&gt;
@@ -231,10 +238,10 @@ Kaum jemand verbrachte noch Zeit  in der Realität, geschweige denn auf den Stä
     
     <item>
       <title>Mario</title>
-      <link>https://fantastokrat.de/mario/</link>
+      <link>http://localhost:1313/mario/</link>
       <pubDate>Sun, 08 Jan 2023 00:24:49 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/mario/</guid>
+      <guid>http://localhost:1313/mario/</guid>
       
       <description>&lt;p&gt;Der Sommer verabschiedet sich an diesem Freitag Nachmittag mit einem feuchten Schleier, der die letzten Touristen aus der Stadt schiebt. Zurück bleibt die für Berlin zu dieser Jahreszeit übliche Trostlosigkeit. Die Einheimischen erobern sich die Straßen zurück, um sie zwei mal am Tag während ihres zweifelhaften Festes, das sie Berufsverkehr nennen, zu verstopfen.&lt;/p&gt;
 &lt;p&gt;Ich sitze in einem kleinen Café in meiner Straße, das ich auf meinen Streifzügen bisher ignoriert habe. Der Reissverschluss meiner Übergangsjacke ist bis unter das Kinn gezogen, um die Bettwärme so gut wie möglich zu konservieren, aber auch um das muffige Schlafhemd darunter zu verbergen. Ich bestelle einen dieser handtellergroßen Kekse und als wollte ich mich anbiedern in  diesem Café, zu dessen Zielgruppe sonst eher die ruhesuchenden Nachbarn gehören und weniger die kosmopolitischen Juppy-Touristen, einen einfachen Kaffee mit einem Schuss Kuhmilch. Kaffee mit Milch. Will man den Anschein der Zugehörigkeit waren, dann ist es wichtig, dass man  bei der Aussprache von „Kaffee“ die erste Silbe betont und das „ee“ am Ende verschluckt. Wie das „Kaff“ muss es  klingen, das Berlin ja eigentlich auch ist.&lt;/p&gt;
@@ -258,10 +265,10 @@ Kaum jemand verbrachte noch Zeit  in der Realität, geschweige denn auf den Stä
     
     <item>
       <title>Talent</title>
-      <link>https://fantastokrat.de/talent/</link>
+      <link>http://localhost:1313/talent/</link>
       <pubDate>Sun, 08 Jan 2023 00:24:49 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/talent/</guid>
+      <guid>http://localhost:1313/talent/</guid>
       
       <description>&lt;p&gt;Das Gesangstalent wurde mir in die Wiege gelegt, als ich mit eben jener an einer Haltestelle auf den Bus wartete, ohne mein Ziel überhaupt zu kennen. So verdiente ich mir meine Fahrkarte. So war es damals üblich.&lt;/p&gt;
 &lt;p&gt;Ich nahm es zwar an, einem geschenkten Gaul schaut man nicht ins Maul, doch nur um das Talent sogleich in braunem Speckpapier eingewickelt in einem Ofen genüsslich zu garen und es später unter dem frierenden Bedürftigen zu verteilen. So kam es also dazu, dass eine ganze Stadt ob ihrer singenden Bewohner weltberühmt wurde.&lt;/p&gt;
@@ -272,10 +279,10 @@ Kaum jemand verbrachte noch Zeit  in der Realität, geschweige denn auf den Stä
     
     <item>
       <title>Retrospektive</title>
-      <link>https://fantastokrat.de/retrospektive/</link>
+      <link>http://localhost:1313/retrospektive/</link>
       <pubDate>Fri, 06 Jan 2023 23:10:27 +0200</pubDate>
       
-      <guid>https://fantastokrat.de/retrospektive/</guid>
+      <guid>http://localhost:1313/retrospektive/</guid>
       
       <description>&lt;p&gt;Alles beganng mit den Drohnen. Sie wurden kleiner. Effizienter. Günstiger. Sie ermöglichten noch mehr Prozesse zu autoamtisieren. Zu Weihnachten verdunkelten ganze Drohnenschwärme den Himmel, wenn sie die Pakete auslieferten. Hast du schon mal gesehen, wie 10.000 Drohnen einen riesigen Frachter zusammensetzen? Beeindruckend. Das schwirren von tausenden von Drohnen in einer sonst menschenleeren Automobilfabrik. Transportdrohnen liefern die Bauteile an, kleine Werkzeugdrohnen vollenden die Montage. Nichts war vor der Automatisierung sicher. Die Berufe, in denen Menschen noch selber Hand anlegten, wurden seltener. Beeindruckend.&lt;/p&gt;
 &lt;p&gt;Die künstliche Intelligenz steckte zu dieser Zeit noch in den Kinderschuhen. Die Menschen hatten Angst vor den Algorithmen. Künstler begehrten auf, weil Computer Bilder zeichnen konnten. Schneller und perfekte, als je zuvor. Autoren mussten mit ansehen, wie Computer Texte verfassten. Irgendwann erstelle man mithilfe der künstlichen Intelligenz ganze Filme, entwickelte Software. Es dauerte eine Weile, bis die Menschena aufhörten, ihr Monopol auf Kreativität zu verteidigen. Computergenerierte Kunst war kein Substitutionsgut, es ergänze die menschengemachte Kunst. Irgendwann wurde eine Singularität erreicht, der Punkt, an dem die Computer die Forschung übernahmen. Die Prinzipien der Kernfusion wurden mithilfe der künstlichen Intelligenz weiter entwickelt und verfeinert. Auch der Perfektionierung der Quantencomputer stand nun nichts mehr im Weg, und damit der Zugriff auf unvorstellbare Rechenleistungen.&lt;/p&gt;
@@ -294,10 +301,10 @@ Kaum jemand verbrachte noch Zeit  in der Realität, geschweige denn auf den Stä
     
     <item>
       <title>Schorsch, der Froschkönig</title>
-      <link>https://fantastokrat.de/schorsch-der-froschk%C3%B6nig/</link>
+      <link>http://localhost:1313/schorsch-der-froschk%C3%B6nig/</link>
       <pubDate>Fri, 06 Jan 2023 01:01:12 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/schorsch-der-froschk%C3%B6nig/</guid>
+      <guid>http://localhost:1313/schorsch-der-froschk%C3%B6nig/</guid>
       
       <description>&lt;p&gt;Behende zog ich mich an den nassen Schnüren, die mir die Wolken entgegen warfen, auf das Himmelsdach, um dort oben, fast etwas außer Atem, vorsichtigt durch den weichen Pflaum zu staken und mir ein bequemes Plätzchen zu suchen, von dem aus ich das hektische Treiben dort unten auf dem blau-grauen Planeten beobachten konnte, ohne zu bemerken, dass ein Frosch, ganz aus Holz, es sich neben mir bequem gemacht hatte und sich mit einer Pfote - wie nennt man die Hände eines Frosches eigentlich? - noch an ein Bündel der nassen Schnüre klammerte wärend er mir die andere Hand - Hände, man nennt sie einfach Hände! - zum Gruße entgegenstreckte, den ich nur mit einem kurzen Nicken quittierte, um dem Frosch dann, mich meiner guten Kinderstube besinnend, ein halbes Schokoplätzchen aus meinem gut gefüllten Proviant-Koffer, welchen ich auf meinen außergewöhnlichen Reisen mitzuführen pflegte, anzubieten.&lt;br&gt;
 Er lehnte dankend, um nicht nicht zu sagen trotzig, ab und wortlos, wie es sich für zwei fremde Reisende gehört, einigten wir uns darauf, ab jetzt wieder getrennte Wege zu gehen und den Abschied nicht doch noch mit erzwungenen Höflichkeitsfloskeln zu erschweren.&lt;/p&gt;
@@ -309,10 +316,10 @@ Er lehnte dankend, um nicht nicht zu sagen trotzig, ab und wortlos, wie es sich 
     
     <item>
       <title>Fantasie</title>
-      <link>https://fantastokrat.de/fantasie/</link>
+      <link>http://localhost:1313/fantasie/</link>
       <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/fantasie/</guid>
+      <guid>http://localhost:1313/fantasie/</guid>
       
       <description>&lt;p&gt;In einem Multiversum mit unendlich vielen Realitäten ist jede Fantasie nur die Abbildung einer beliebigen Realität.&lt;/p&gt;
 </description>
@@ -321,10 +328,10 @@ Er lehnte dankend, um nicht nicht zu sagen trotzig, ab und wortlos, wie es sich 
     
     <item>
       <title>Asphalt</title>
-      <link>https://fantastokrat.de/asphalt/</link>
+      <link>http://localhost:1313/asphalt/</link>
       <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/asphalt/</guid>
+      <guid>http://localhost:1313/asphalt/</guid>
       
       <description>&lt;p&gt;Der Wecker klingelt.&lt;/p&gt;
 &lt;p&gt;Nein. Er klingelt nicht. Sein scharfes Bellen zerreisst den warmen Morgen und liefert sich einen erbitterten Kampf mit jener Schläfrigkeit, die sich eben noch schützend über mich geworfen hat. Mühsam presse ich meine Augen zusammen und verliere ihn doch allmählich, den alltäglichen Kampf. Ich schiebe meine schweren Arme über die Bettkante. Sie fallen würdelos auf den ausgefransten Teppich. Der Rest meines Körpers folgt ihnen, nicht weniger unwürdig. Zeit für eine Dusche.&lt;/p&gt;
@@ -340,10 +347,10 @@ Er lehnte dankend, um nicht nicht zu sagen trotzig, ab und wortlos, wie es sich 
     
     <item>
       <title>Der Heidelbeer-Pfad</title>
-      <link>https://fantastokrat.de/der-heidelbeer-pfad/</link>
+      <link>http://localhost:1313/der-heidelbeer-pfad/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/der-heidelbeer-pfad/</guid>
+      <guid>http://localhost:1313/der-heidelbeer-pfad/</guid>
       
       <description>&lt;p&gt;Ein erschöpftes &amp;ldquo;Stopp&amp;rdquo; springt mir in den Nacken. Die Angst vor dem Sprung auf den gerade abfahrenden Zug ist schlagartig fort. Ich klammere mich an die Tasche und springe. Auf allen Vieren balanciere ich zur nächsten Dachluke. Wie ein Würstchen, das man in ein volles Glas zurück schiebt - warum auch immer man das tun sollte - presse ich mich in das überquellende Abteil. Begleitet von den erstaunten Blicken der Mitfahrenden wühle ich mich durch den schwitzenden Waggong zum Ausgang und springe an der nächsten Station wieder heraus.&lt;/p&gt;
 &lt;p&gt;Dumpfer Wind zieht durch den mit einem kaskadierenden Goldmuster befliesten Tunnel. Die Säulen sind mit roten Marmor besetzt, oder zumindest einer sehr hochwertigen Nachbildung. In die gewölbte Decke hatte man Fugen und Scharten eingelassen, die den Schall so gut brechen, dass diese Station ausnahmsweise mal nicht vom endlosen Gezeter der gehetzten Großstädter dominiert wird. Nur das Rauschen der ein- und ausfahrenden Züge ist allgegenwärtig. Ich stürme die Treppen nach oben, es mussten ungefähr 749 Stufen gewesen sein, in diesem Teil der Stadt liegt das U-Bahn-Netz erstaunlich tief, weit unter dem Meeresspiegel, und werde am Ausgang durch eine nach Teer und Stahl miefenden Staubwehe begrüßt. Mein Blick fällt auf ein alleinstehendes Taxi, dessen Scheiben mit bunten Wimpeln und Lämpchen behangen sind. Ich werfe mich mitsamt Tasche durch das offene Fenster auf die Rückbank. &amp;ldquo;Los!&amp;rdquo;, rufe ich dem Fahrer zu.&lt;/p&gt;
@@ -362,10 +369,10 @@ Er lehnte dankend, um nicht nicht zu sagen trotzig, ab und wortlos, wie es sich 
     
     <item>
       <title>Das geheime Leben der Buchstaben</title>
-      <link>https://fantastokrat.de/das-geheime-leben-der-buchstaben/</link>
+      <link>http://localhost:1313/das-geheime-leben-der-buchstaben/</link>
       <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/das-geheime-leben-der-buchstaben/</guid>
+      <guid>http://localhost:1313/das-geheime-leben-der-buchstaben/</guid>
       
       <description>&lt;p&gt;Die folgenden Worte haben sich dem Ziel verschrieben, dem geneigten Leser das geheime Leben der Buchstaben näher zu bringen. Davon kann man halten, was man will. Fakt ist: Buchstaben und ihre besonderen Fähigkeiten werden unterschätzt. Haben Sie schon einmal den Versuch gewagt, den Inhalt eines Buches, was ja schließlich Buchstaben sind, zu spüren? Richtig zu spüren? Nein, nicht was Sie jetzt denken. Schließen Sie die Augen; öffnen Sie das Buch und legen Sie ihren Kopf hinein. Oder, wenn es Ihnen besser passt, legen Sie das geöffnete Buch wie ein Dach, das sie vor der herunterprasselnden Realität schützt, auf Ihr Gesicht. Und dann warten Sie. Merken Sie etwas?&lt;/p&gt;
 &lt;p&gt;Nehmen Sie sich Zeit, denn nur so erleben Sie, was den meisten von uns entgeht, wenn sie durch eben jene jagen. Und Sie werden feststellen: Buchstaben führen ein bemerkenswertes Eigenleben, sogar ein äußerst bemerkenswertes Eigenleben. Egal ob in dicken Wälzern oder dünnen Heftchen, großen Büchern, winzigen Büchlein, in Abenteuern, Romanzen, Kurzgeschichten, Romanen, Fantasien oder romanischen Parabeln, ja sogar in Betriebsanleitungen für Flaschenöffner. Das geheime Leben der Buchstaben entfaltet sich, sobald man sich die Zeit nimmt und den Buchstaben Raum gibt.&lt;/p&gt;
@@ -385,10 +392,10 @@ Er lehnte dankend, um nicht nicht zu sagen trotzig, ab und wortlos, wie es sich 
     
     <item>
       <title>Ein Stein (2)</title>
-      <link>https://fantastokrat.de/ein-stein-2/</link>
+      <link>http://localhost:1313/ein-stein-2/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/ein-stein-2/</guid>
+      <guid>http://localhost:1313/ein-stein-2/</guid>
       
       <description>&lt;p&gt;In einem hohen Bogen fliegen wir durch die Dunkelheit und landen mit einem dumpfen Uff weit außerhalb meines Gartens wieder auf dem Boden. Am Rande des Feldes sehe ich meine schwach leuchtende Hütte, als ich einen prüfenden Blick hinter mich werfe.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Nochmal!&amp;rdquo; wirft mir der Stein entgegen, der sichtlich Spaß zu haben scheint.&lt;/p&gt;
@@ -417,11 +424,23 @@ Er lehnte dankend, um nicht nicht zu sagen trotzig, ab und wortlos, wie es sich 
     </item>
     
     <item>
+      <title>**Cyberfunk**</title>
+      <link>http://localhost:1313/cyberfunk/</link>
+      <pubDate>Thu, 10 Dec 2020 12:34:56 +0100</pubDate>
+      
+      <guid>http://localhost:1313/cyberfunk/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;cyberfunk.png&#34; alt=&#34;Cyberfunk&#34;&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>Die Jurke der Gerechtigkeit</title>
-      <link>https://fantastokrat.de/die-jurke-der-gerechtigkeit/</link>
+      <link>http://localhost:1313/die-jurke-der-gerechtigkeit/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/die-jurke-der-gerechtigkeit/</guid>
+      <guid>http://localhost:1313/die-jurke-der-gerechtigkeit/</guid>
       
       <description>&lt;p&gt;Freitag morgen. Ick sitze inne Bahn und bekomm die Glotzkorken kaum uff. Die Plackerei hinterlässt ihre Spuren. Tach für Tach. Woche für Woche. Jahr für Jahr. Dekade für Dekade. Mir jegenüber hat sich n Bengel hinjefleetzt. Linke Hand ne Molle, rechte Hand n Besuchsbesen. Ick kiek ihn an. Er kiekt mich an. Wir kieken uns an. Die anderen kieken ausm Fenster.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Na Keule, wohin des Wegs?&amp;rdquo;&lt;/p&gt;
@@ -459,10 +478,10 @@ Er lehnte dankend, um nicht nicht zu sagen trotzig, ab und wortlos, wie es sich 
     
     <item>
       <title>Ein Stein (1)</title>
-      <link>https://fantastokrat.de/ein-stein-1/</link>
+      <link>http://localhost:1313/ein-stein-1/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/ein-stein-1/</guid>
+      <guid>http://localhost:1313/ein-stein-1/</guid>
       
       <description>&lt;p&gt;Ohne Rücksicht auf die späte Uhrzeit tritt der Sturm die schwere Tür zu meiner Holzhütte auf und wirft mir eine frische Böe entgegen, um mich nach draußen zu bitten. Für einen kurzen Moment schließe ich die Augen und lasse den Geschmack der feuchten Luft auf meiner Zunge zergehen. Ich genieße den Gedanken an den ungeduldig in der Tür wartenden Sturm und das beseelende Gefühl der unaufhaltsam verstreichenden Zeit, lasse meine Arme locker, strecke die Beine aus und lege den Kopf in den Nacken. Nach einigen Sekunden, Minuten oder Stunden, ich weiß es nicht genau, öffne ich die Augen wieder und nehme die Einladung dankbar an.&lt;/p&gt;
 &lt;p&gt;Der Regen hat das Holz auf meiner Verranda mit dunklen Flecken besudelt. Im Osten steigt der Mond auf, begleitet vom Zirpen der Grillen, die sich rund um meine Unterkunft in trockene Höhlen geflüchtet haben. Vor mir liegt ein wilder, ungepflegter Garten. Ich habe mir vorgenommen ihn so lange nicht zu pflegen, bis mir meine Nachbarn böse Blicke entgegen werfen. Oder bis das Grün so hoch ist, dass man darauf eine Decke ausbreiten müsste, um die Halme und Blüten, Blätter, Strunke und das Kraut zu einer weichen Decke mit Tälern und Gebirgen zu zerdrücken.&lt;/p&gt;
@@ -498,10 +517,10 @@ Er lehnte dankend, um nicht nicht zu sagen trotzig, ab und wortlos, wie es sich 
     
     <item>
       <title>Molukken</title>
-      <link>https://fantastokrat.de/molukken/</link>
+      <link>http://localhost:1313/molukken/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/molukken/</guid>
+      <guid>http://localhost:1313/molukken/</guid>
       
       <description>&lt;p&gt;&lt;a href=&#34;https://de.wikipedia.org/wiki/Molukken&#34;&gt;Molukken&lt;/a&gt;. Die ~. Veraltet: Molucken. Auch: Gewürzinseln. Inselgruppe zwischen Sulawesi und Neuguinea im indischen Ozean. Die Molukken hielten bis Anfang des 16. Jahrhunderts ein Monopol auf den Anbau von Gewürznelken. Der Name Nelke stammt &lt;a href=&#34;https://de.wikipedia.org/wiki/Gew%C3%BCrznelkenbaum&#34;&gt;von der mittelhoch- bzw. mittelniederdeutschen Bezeichnung&lt;/a&gt; negelein bzw. negelkin - also Nägelchen, da die Form der Knospe an einen kleinen Nagel erinnert. Nägel gehören zu den ältesten bekannten Verbindungselementen. Der bisher älteste Holznagel der Welt wurde &lt;a href=&#34;https://www.spiegel.de/wissenschaft/mensch/sachsen-archaeologen-finden-aelteste-holznaegel-der-welt-a-693600.html&#34;&gt;2010 nahe Leipzig&lt;/a&gt; gefunden.&lt;br&gt;
 Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wiki/Leipzig#Kulinarische_Spezialit%C3%A4ten&#34;&gt;Leipziger Allerlei&lt;/a&gt;! Ein Gemüsegericht, das ursprünglich allerdings mit Flusskrebsen und Krebsbutter angerichtet wurde. Die Leipziger Lerche hingegen ist ein &lt;a href=&#34;https://de.wikipedia.org/wiki/Leipziger_Lerche_(Geb%C3%A4ck)&#34;&gt;köstliches Gebäck&lt;/a&gt;, das an eine alte Tradition aus dem 19. Jahrhundert erinnert: Den Verzehr von Singvögeln. Lerchen galten als besondere Delikatesse. Nicht zu verwechseln mit &lt;a href=&#34;https://de.wikipedia.org/wiki/L%C3%A4rchen&#34;&gt;der Lärche&lt;/a&gt; - einem Baum, bzw. genauer: Eine Gattungsbezeichnung, zu der auch die japanische Lärche gehört. Der lateinische Name lautet Larix kaempferi, in Erinnerung an &lt;a href=&#34;https://de.wikipedia.org/wiki/Engelbert_Kaempfer&#34;&gt;Engelbert Kaempfer&lt;/a&gt;, ein deutscher Arzt und Forschungsreisender. Eine seiner Reisen führte ihn auch nach Java. Eine Inselregion, die zu &lt;a href=&#34;https://de.wikipedia.org/wiki/Indonesien&#34;&gt;Indonesien&lt;/a&gt; gehört - der größte Inselstaat der Welt mit über 17.000 Inseln. Die, gemessen an der Einwohnerzahl kleinste Region, heißt, Achtung: Molukken.&lt;/p&gt;
@@ -511,10 +530,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Schafe</title>
-      <link>https://fantastokrat.de/schafe/</link>
+      <link>http://localhost:1313/schafe/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/schafe/</guid>
+      <guid>http://localhost:1313/schafe/</guid>
       
       <description>&lt;p&gt;Schafe sind elementarer Bestandteil jeder kulturellen Revolution, da sie nicht nur den nötigen Rohstoff für stundenlange Gelage in frostigen Winternächten liefern. Sie werden außerdem seit jeher als Symbol für Eternität verstanden. Damit vermitteln sie gleichzeitig ein Bewußtsein für die Bedeutungslosigkeit der menschlichen Existenz. Wer nur an ein Schaf denkt, erhascht stets, oft unbewusst, einen kurzen Blick auf die irdische Manifestierung universeller Schönheit und es ist nur zu verständlich, daß im Antlitz dieser Offenbarung die Idee von Schöpfung und Evolution miteinander zu verschmelzen scheinen.&lt;/p&gt;
 &lt;p&gt;Schafe stecken voller Weisheit; im gleichen Maße wie der menschliche Geist von Gleichgültigkeit und Arroganz erfüllt ist. Schafe können reden. Sie wissen es nur noch nicht. Und wüssten sie es, hätten die Menschen nicht die Geduld ihnen zuzuhören. Sie sind zu sehr damit beschäftigt die Schafe zu scheren, ihre Wolle chemisch zu reinigen und mit dem Abzeichen eines globalen Modekonzerns zu versehen.&lt;/p&gt;
@@ -524,11 +543,11 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     </item>
     
     <item>
-      <title>2020</title>
-      <link>https://fantastokrat.de/2020/</link>
+      <title>**2020**</title>
+      <link>http://localhost:1313/2020/</link>
       <pubDate>Wed, 01 Jan 2020 12:34:56 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/2020/</guid>
+      <guid>http://localhost:1313/2020/</guid>
       
       <description>&lt;p&gt;&lt;img src=&#34;2020.png&#34; alt=&#34;2020&#34;&gt;&lt;/p&gt;
 </description>
@@ -537,10 +556,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Dein Verhalten...</title>
-      <link>https://fantastokrat.de/dein-verhalten.../</link>
+      <link>http://localhost:1313/dein-verhalten.../</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/dein-verhalten.../</guid>
+      <guid>http://localhost:1313/dein-verhalten.../</guid>
       
       <description>&lt;p&gt;&amp;hellip;überschreitet die Grenzen der Sittsamkeit mit einer derart drastischen Velozität, dass es mir die Schamesröte ins Gesicht treibt, wie bei einem jungen Bub, der just von seiner Sandkastenliebe mit einem Kuss auf die Wange überrascht wurde, während er mit seinen himmelblau strahlenden Latzhosen - nun ganz verdutzt - auf dem Kopfsteinpflaster steht und ihr, die kichernd davon tänzelt, wehmütig nachschaut; unter dem Wolkendach, das soeben seine Pforten öffnet, um diese romantische Szene gebührend zu begleiten, und einen Sturzbach epischen Ausmaßes zur Erde schickt, der sogleich den Lehm aus den Fugen des Kopfsteinpflaster wäscht und dem durchnässten Knaben den Kuss von der Wange spült.&lt;/p&gt;
 </description>
@@ -549,10 +568,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Fünf Minuten</title>
-      <link>https://fantastokrat.de/f%C3%BCnf-minuten/</link>
+      <link>http://localhost:1313/f%C3%BCnf-minuten/</link>
       <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/f%C3%BCnf-minuten/</guid>
+      <guid>http://localhost:1313/f%C3%BCnf-minuten/</guid>
       
       <description>&lt;p&gt;Freitag. Der Wind schmeißt ein paar Regentropfen gegen die Scheiben. Die untergehende Sonne hat mein Büro in ein halbdunkles Zwielicht getaucht. Ab und zu verirrt sich eine Meise auf das Fensterbrett neben meinem Schreibtisch. Sie schaut mir ein paar Augenblicke beim Tippen zu, verfolgt den Cursor auf meinem Bildschirm, wendet den wieder Kopf gelangeweilt ab und fliegt dann wieder davon.&lt;/p&gt;
 &lt;p&gt;Mein müder Blick fällt auf die Uhr in der Taskleiste. 18 Uhr und 23 Minuten. Ich habe Durst. Theatralisch erhebe ich mich, als wollte ich den anderen Kollegen im Büro eine wichtige Ankündigung machen, doch scheinbar haben sie sich in der Deckung der versammelten Monitor bereits davon geschlichen. Ich muss eingeschlafen sein. Das ständige Summen der Lüfter und Festplatten: Ermüdend.&lt;/p&gt;
@@ -572,10 +591,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>1 Farbe und ihre Geschichte: Magenta</title>
-      <link>https://fantastokrat.de/1-farbe-und-ihre-geschichte-magenta/</link>
+      <link>http://localhost:1313/1-farbe-und-ihre-geschichte-magenta/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/1-farbe-und-ihre-geschichte-magenta/</guid>
+      <guid>http://localhost:1313/1-farbe-und-ihre-geschichte-magenta/</guid>
       
       <description>&lt;p&gt;Obgleich die Verwendung dieser Farbe risikobehaftet ist, hat ein bekannter Kommunikationskonzern unter großer öffentlicher Anteilnahme diese Farbe doch als Marke registrieren lassen, möchte ich euch die Geschichte des sogenannten &amp;ldquo;&lt;strong&gt;hellen Purpurs&lt;/strong&gt;&amp;rdquo; oder auch &lt;strong&gt;Fuchsia&lt;/strong&gt; nicht vorenthalten.&lt;/p&gt;
 &lt;p&gt;Magenta ist keine Spektralfarbe, also nicht Teil des &lt;strong&gt;Lichtspektrums&lt;/strong&gt;, und kann daher nur durch Mischen von &lt;strong&gt;Blau&lt;/strong&gt; und &lt;strong&gt;Grün&lt;/strong&gt; erzeugt werden.&lt;/p&gt;
@@ -587,10 +606,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>1 Farbe und ihre Geschichte: Rot</title>
-      <link>https://fantastokrat.de/1-farbe-und-ihre-geschichte-rot/</link>
+      <link>http://localhost:1313/1-farbe-und-ihre-geschichte-rot/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/1-farbe-und-ihre-geschichte-rot/</guid>
+      <guid>http://localhost:1313/1-farbe-und-ihre-geschichte-rot/</guid>
       
       <description>&lt;p&gt;Die Wahrnehmung von Rot entsteht, wenn das Licht eine Wellenlänge von 600 nm bis 800 nm hat. Im Gegensatz zu anderen Säugetieren kann der Mensch diese Farbe sehr gut wahrnehmen.&lt;/p&gt;
 &lt;p&gt;Dunkles Rot wird als Braun wahr genommen. Aus diesem Grund wird rote Beleuchtung in bestimmten Etablissments, aber auch beim Bäcker, eingesetzt, um eine angenehme Bräunung der Objekte vorzutäuschen.&lt;/p&gt;
@@ -601,10 +620,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Pingo: Pizza-Bingo</title>
-      <link>https://fantastokrat.de/pingo-pizza-bingo/</link>
+      <link>http://localhost:1313/pingo-pizza-bingo/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/pingo-pizza-bingo/</guid>
+      <guid>http://localhost:1313/pingo-pizza-bingo/</guid>
       
       <description>&lt;p&gt;Pizza-Bingo ist ein lustiges Spiel, wenn nicht das lustigste Spiel seit es lustige Spiele gibt, das aus einem langweiligen Fernsehabend einen illustre Party-Abend werden lässt, an dessem Ende alle gesättigt einschlafen werden.&lt;/p&gt;
 &lt;p&gt;Du brauchst nicht mehr als die Menükarte deines Lieblings-Pizza-Dienstes.  (Alternativ kannst du die Zutaten auch einkaufen und ihr bereitet die Pizzen in deiner eigenen Küche zu, das kostet aber mehr Zeit und die Küche sieht danach mindestens aus wie Sau.)&lt;/p&gt;
@@ -648,10 +667,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Freiheit für die Ohren (Manifest)</title>
-      <link>https://fantastokrat.de/freiheit-f%C3%BCr-die-ohren-manifest/</link>
+      <link>http://localhost:1313/freiheit-f%C3%BCr-die-ohren-manifest/</link>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/freiheit-f%C3%BCr-die-ohren-manifest/</guid>
+      <guid>http://localhost:1313/freiheit-f%C3%BCr-die-ohren-manifest/</guid>
       
       <description>&lt;p&gt;Bekämpft das Diktat der Kopfbedeckung&lt;/p&gt;
 &lt;p&gt;Nieder mit den Mützen&lt;/p&gt;
@@ -665,10 +684,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>23</title>
-      <link>https://fantastokrat.de/23/</link>
+      <link>http://localhost:1313/23/</link>
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/23/</guid>
+      <guid>http://localhost:1313/23/</guid>
       
       <description>&lt;p&gt;Heute ist der 8.5.2019. Die Quersumme ist 25. Der Art. 25 GG enthält ebenfalls 25 Wörter. 25 x 25 = 6.25. Der 25.6. ist der 176 Tag des gregorianischen Kalenders. 176 cm entsprechen 5,77428 Fuß - 577428 ist die Postleitzahl von Shivamogga, dessen offizielle Bezeichnugn bis 2014 Shimoga war! Die bniäre Entsprechung davon ist 01010011011010000110100101101101011011110110011101100001 - das sind 30 mal die Ziffer 1. Drei ist die erste Fermat-Primzahl - benannt nach dem Franzosen Pierre de Fermat, ein französischer Mathematiker, der am 12. Januar 1665 starb - ein Montag. Heute ist Mittwoch, beide Tage beginnen mit einem M. M&amp;amp;M&amp;rsquo;s ist eine Marke der Firma Mars, was gleichzeitig der 4. Planet in unserem Sonnensystem ist. Und welcher Buchstabe steht an vierter Stelle in unserem Alphabet? Das D! Das D geht auf den proto-semitschen Fisch zurück. Fische! In dieses Sternzeichen werden Menschen zwischen dem 20.2. und dem 20.3. geboren. Und die Summe von 20, 2, 20 und 3 ist 45. Und was ist der 45. Tag im Jahr? Der 14. Februar, in der 7. Woche. 14 + 2+ 7 ist 23!&lt;/p&gt;
 &lt;ol start=&#34;23&#34;&gt;
@@ -681,10 +700,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Cholesterin</title>
-      <link>https://fantastokrat.de/cholesterin/</link>
+      <link>http://localhost:1313/cholesterin/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/cholesterin/</guid>
+      <guid>http://localhost:1313/cholesterin/</guid>
       
       <description>&lt;p&gt;Durch die beim Rühren entstehenden Fliehkräfte wird das Cholesterin aus dem Ei befördert und landet an der Pfanneninnenwand, von wo aus es mit einem Holzspatel bequem abgetragen und in einen Eimer zum späteren Verzehr oder zum Streichen der Wand abgefüllt werden kann.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;(aus: Butzholm, Der Koch-Almanach, 1928)&lt;/em&gt;&lt;/p&gt;
@@ -694,10 +713,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Dialog</title>
-      <link>https://fantastokrat.de/dialog/</link>
+      <link>http://localhost:1313/dialog/</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/dialog/</guid>
+      <guid>http://localhost:1313/dialog/</guid>
       
       <description>&lt;p&gt;A: Bist du bereit.&lt;/p&gt;
 &lt;p&gt;B: Ich war nie bereiter.&lt;/p&gt;
@@ -731,10 +750,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Yaka Yaka.</title>
-      <link>https://fantastokrat.de/yaka-yaka./</link>
+      <link>http://localhost:1313/yaka-yaka./</link>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/yaka-yaka./</guid>
+      <guid>http://localhost:1313/yaka-yaka./</guid>
       
       <description>&lt;p&gt;Ablazio, Ablazio - deine Getreuen verlangen nach dir. Weise Ihnen den Weg, in eine prosperierende Zukunft! Yaka Yaka!&lt;/p&gt;
 &lt;p&gt;Stürmisch dröhnen die Wörter aus dem Megafon in Richtung der kahlen, stummen Steinhöhle. Das hungernde Volk hat es sich, allerdings in respektvollem Abstand, vor dem grauen Eingang zwar nicht gerade bequem gemacht, aber zumindest platziert und skandiert nun immer wieder den hilfesuchenden Aufruf an den, den sie Ablazio nennen. &lt;/p&gt;
@@ -746,10 +765,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Zitat</title>
-      <link>https://fantastokrat.de/zitat/</link>
+      <link>http://localhost:1313/zitat/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/zitat/</guid>
+      <guid>http://localhost:1313/zitat/</guid>
       
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Die Tränen, die sie Langeweile nennen, auf dem Wäscheständer zum Trocknen aufhängen, den sie Internet nennen.&amp;rdquo;&lt;/p&gt;
@@ -761,10 +780,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Fleischwürste</title>
-      <link>https://fantastokrat.de/fleischw%C3%BCrste/</link>
+      <link>http://localhost:1313/fleischw%C3%BCrste/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/fleischw%C3%BCrste/</guid>
+      <guid>http://localhost:1313/fleischw%C3%BCrste/</guid>
       
       <description>&lt;p&gt;Fleischwürste lieben es warm, aber trocken und sollten immer in Gemeinschaft gehalten werden, denn Fleischwürste sind Rudelkatzen.  Ausserdem benötigen sie sehr viel Liebe und Zuneigung, auch körperlich.  Oft nutzt man zur Unterbringung Brutkästen, die man großzügig mit Blattsalat ausfüllen sollte. Fleischwürste sind strikte Vegaterier. Wichtig ist  natürlich auch frische Luft. Die Luft deiner Berlin-Mitte-Wohngemeinschaft wird sehr schnell den üblichen Fleischwurstgeruch annehmen, mehr als du gewohnt bist. Das liegt an dem Wurstwasserdampf, den die Fleischwürste während des Wachstums vermehrt ausdünsten. Gönne Ihnen also ab und an einen Ausflug  an die Ostsee  oder einen Spaziergang durch den Volkspark Friedrichshain. Du schaffst das.&lt;/p&gt;
 </description>
@@ -773,10 +792,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Willkommen in Berlin</title>
-      <link>https://fantastokrat.de/willkommen-in-berlin/</link>
+      <link>http://localhost:1313/willkommen-in-berlin/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/willkommen-in-berlin/</guid>
+      <guid>http://localhost:1313/willkommen-in-berlin/</guid>
       
       <description>&lt;p&gt;Willkommen in Berlin ist ein satirischer und nicht immer ernst gemeinter Ratgeber für Berlins Besucher und Bewohner. Im Tagebuchstil berichtet der Autor, immer mit einem Augenzwinkern, von den Gefahren, die von Rollkoffern ausgehen, den Benimmregeln auf Rolltreppen und den Strategien, um sich im &amp;ldquo;gefährlichen&amp;rdquo; Berliner Straßenverkehr unversehrt zurechtzufinden.&lt;/p&gt;
 &lt;p&gt;Das Buch ist bei Amazon als eBook und Taschenbuch erschienen (Werbe-Link: &lt;a href=&#34;https://amzn.to/2zbiGaS&#34;&gt;https://amzn.to/2zbiGaS&lt;/a&gt;)  und nimmt am Wettbewerb kindlestoryteller2018 teil.&lt;/p&gt;
@@ -786,10 +805,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Ein Sprichwort</title>
-      <link>https://fantastokrat.de/ein-sprichwort/</link>
+      <link>http://localhost:1313/ein-sprichwort/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/ein-sprichwort/</guid>
+      <guid>http://localhost:1313/ein-sprichwort/</guid>
       
       <description>&lt;p&gt;Die Sonne brennt auf der knorrigen Haut. Das ist sehr angenehm. Ich mag den Sommer.&lt;/p&gt;
 &lt;p&gt;Nein.&lt;/p&gt;
@@ -803,10 +822,10 @@ Leipzig? Da war doch was? Korrekt - &lt;a href=&#34;https://de.wikipedia.org/wik
     
     <item>
       <title>Zahnarzt</title>
-      <link>https://fantastokrat.de/zahnarzt/</link>
+      <link>http://localhost:1313/zahnarzt/</link>
       <pubDate>Sun, 17 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/zahnarzt/</guid>
+      <guid>http://localhost:1313/zahnarzt/</guid>
       
       <description>&lt;p&gt;Gestern war ich beim Zahnarzt. Er residiert mit seiner Praxis in einem verlassenen Transportschiff. Seine rostigen Wände zeugen  von dessen stürmischer Vergangenheit auf den sieben Weltmeeren. Jetzt  spendete der rotbraune, raue Stahl im S noch Kühle. Das Behandlungszimmer, er hat nur eins, befindet sich im Frachtraum, der natürlich nach oben hin offen ist. Früher wurden schwere Container mit grazilen Kränen durch den hungrigen Schlund in den Frachtraum gehoben. Nun verdeckt ein mit Stoff bespanntes Zeltgestänge die Öffnung im Schiffsdeck. Bei Regen dient es als Regenschutz, im Sommer wirft es einen schwachen Schatten auf die kostbare zahnmedizinische Ausrüstung.&lt;/p&gt;
 &lt;p&gt;Die rotbraunen Schotten des Behandlungsfrachtraumes sind mit wirrem Lametta verziert, das man heutzutage eigentlich nirgends mehr kaufen kann. Der Rohstoff ist einfach zu wertvoll. Doch wie es der Zufall so wollte, fand man nach der Dekommissionierung des Schiffes einen vergessenen Container im Frachtraum, der bis oben hin mit eben diesen wertvollen Aluminiumstreifen gefüllt war. 19,5 Tonnen Lametta. Ein Großteil davon wurde mühevoll zu Aluminiumfolie verschweißt um in die Aluhutproduktion überführt zu werden. Seitdem das Magnetfeld der Erde uns nicht mehr vor der kosmischen Strahlung schützt, hat sich der Ruf der Aluhüte drastisch verbessert. Sie retten nun Leben.&lt;/p&gt;
@@ -833,10 +852,10 @@ Gestern saß ich also dort. Den Kopf an die Wand zwischen das Lametta gelehnt. D
     
     <item>
       <title>Kyffhäuserkreis</title>
-      <link>https://fantastokrat.de/kyffh%C3%A4userkreis/</link>
+      <link>http://localhost:1313/kyffh%C3%A4userkreis/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/kyffh%C3%A4userkreis/</guid>
+      <guid>http://localhost:1313/kyffh%C3%A4userkreis/</guid>
       
       <description>&lt;p&gt;Der Name „Kyffhäuserkreis“ ist vielen bekannt, doch weniger bekannt ist die eigentliche Herkunft dieser Bezeichnung, deren Erklärung sich in der jüngeren deutschen Geschichte finden lässt.&lt;/p&gt;
 &lt;p&gt;Mitte des 20. Jahrhunderts kam es zur Teilung Deutschlands. Um die ausreichende Versorgung der Bevölkerung mit Argrar-Produkten nicht zu gefährden, begann man damit die landwirtschaftlichen Bemühungen in den Bundesländern der neu “gegründeten” DDR zu voranzutreiben.&lt;br&gt;
@@ -852,10 +871,10 @@ Mit dem Fall der Mauer Ende der 80er Jahre und der Wiedervereinigung verbesserte
     
     <item>
       <title>Mostbahnhof</title>
-      <link>https://fantastokrat.de/mostbahnhof/</link>
+      <link>http://localhost:1313/mostbahnhof/</link>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/mostbahnhof/</guid>
+      <guid>http://localhost:1313/mostbahnhof/</guid>
       
       <description>&lt;p&gt;Heute möchte ich euch mit einem kleinen Exkurs in die frühe Berliner Geschichte überraschen. Es geht um den bekannten Ostbahnhof. Dessen ursprüngliche Bezeichnung - was die wenigstens wissen - hat wenig mit der Himmelsrichtung zu tun, sondern geht auf seine ursprüngliche Nutzung als Handelsknotenpunkt und Umschlagplatz für Most zurück!&lt;/p&gt;
 &lt;p&gt;Der Ostbahnhof liegt im Berliner Bezirk Friedrichshain und hatte im Laufe der Geschichte viele unterschiedliche Bezeichnungen. Doch ein heutzutage kaum noch bekannter Name lautet &amp;ldquo;Mostbahnhof&amp;rdquo;. Dieser ist auf die ursprüngliche Nutzung der damals noch kombinierten Liegenschaft aus Hafen und Güterbahnhof zurückzuführen.&lt;/p&gt;
@@ -869,10 +888,10 @@ Der Most wurde auf dem Wasserweg mit alten Holzkähnen bis nach Berlin gebracht 
     
     <item>
       <title>Ein Wurm</title>
-      <link>https://fantastokrat.de/ein-wurm/</link>
+      <link>http://localhost:1313/ein-wurm/</link>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/ein-wurm/</guid>
+      <guid>http://localhost:1313/ein-wurm/</guid>
       
       <description>&lt;p&gt;Ein Wurm Hat es nicht leicht Verlässt er das Erdreich Ist er in Gefahr Wird zertreten gefressen getrennt überrolt Doch Verlässt er es nicht Bleibt er fern dem Licht Wird er wachsen niemals Bekommt nichts in den Hals Bis auf Wasser und Sand Dabei liegt auf der Hand Das so nichts wird Aus einem Wurm&lt;/p&gt;
 </description>
@@ -880,29 +899,38 @@ Der Most wurde auf dem Wasserweg mit alten Holzkähnen bis nach Berlin gebracht 
     </item>
     
     <item>
-      <title>Das Vürstchen - die vegetarische Wurst</title>
-      <link>https://fantastokrat.de/das-v%C3%BCrstchen-die-vegetarische-wurst/</link>
-      <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
+      <title>**birds arent real**</title>
+      <link>http://localhost:1313/birds-arent-real/</link>
+      <pubDate>Mon, 30 May 2016 12:34:56 +0100</pubDate>
       
-      <guid>https://fantastokrat.de/das-v%C3%BCrstchen-die-vegetarische-wurst/</guid>
+      <guid>http://localhost:1313/birds-arent-real/</guid>
       
-      <description>&lt;p&gt;Die &lt;a href=&#34;https://www.welt.de/politik/deutschland/article158744811/CDU-will-vegetarische-Wurst-verbieten.html&#34;&gt;CDU aus Niedersachsen schlägt vor,&lt;/a&gt; vegetarische Würstchen nicht mehr Würstchen zu nennen. Per Dekret. Nun, was die CDU aus Niedersachsen nicht weiß:&lt;/p&gt;
-&lt;p&gt;Ein Fachbegriff für die vegetarische Wurst existiert bereits seit der Ölkrise in 1973. Die starke Erhöhung der Preise für Rohöl gefährdete auch die Versorgung der Bevölkerung mit Wurst. Man war gezwungen, auf Fleischersatzmaterialien auszuweichen, wie z.B. Sägespäne, Reismehl und natürlich auch Tofu. Man beschloss damals, diese vegetarischen Würstchen nicht mehr unter dem Etikett der ordinären Wurst in den Auslagen anzupreisen, um eine Verwirrung der Verbraucher zu vermeiden. Ein 12-köpfiges Expertengremium, dem auch der damalige Ernährungsminister Josef Ertl (FDP) beisaß, beschloss in einer 14-stündigen Sitzung, dass vegetarische Wurst ab dem 1.1.1974 nur noch unter dem Titel “Vurst” (Singular) bzw. “Vürstchen” (Plural) angeboten werden darf. Mit diesem Beschluss ging übrigens die Einführung vieler anderer Fachbegriffe einher. Fachgeschäfte, die sich auf den Vertrieb vegetarischer Würste spezialisierten trugen nunmehr den Namen “Vleischerei”. Außerdem wurde offiziell der Ausbildungsberuf des bzw. der  Vurstvachverkäufer/in eingeführt.&lt;/p&gt;
-&lt;p&gt;Bis heute lassen sich diese Begriffe leider nicht im Duden wiederfinden, was auch der Grund sein dürfte, warum die CDU nun erneut eine Umbenennung anstrengen möchte. Die Erklärung ist einfach: Der Dachverband der Fürsten bemängelte damals, kurz nachdem die Begriffseinführung in Kraft trat, dass Vürstchen leicht mit der offiziellen Bezeichnung für den jungen Nachwuchs der Fürsten verwechselt werden konnten:  Dem Fürstchen.&lt;/p&gt;
-&lt;p&gt;Auf zur nächsten Vürstchenparty!&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;birds-arent-real.png&#34; alt=&#34;birds arent real&#34;&gt;&lt;/p&gt;
 </description>
       
     </item>
     
     <item>
       <title>Schokorosinen</title>
-      <link>https://fantastokrat.de/schokorosinen/</link>
+      <link>http://localhost:1313/schokorosinen/</link>
       <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://fantastokrat.de/schokorosinen/</guid>
+      <guid>http://localhost:1313/schokorosinen/</guid>
       
       <description>&lt;p&gt;Die Weihnachtszeit rückt näher. Lasst uns einem weit verbreiteten Mythos ein für alle mal aufkläeren: Wie entstehen Schokorosinen?&lt;/p&gt;
 &lt;p&gt;Zunächst einmal ist die Schokorosine eine Kreuzung aus Schokolade und Rosinen. Doch es sind nicht, wie landläufig vermutet, die Rosinen, die mittels primitiver Schokoladen-Bäder mit der Braunen Soße überzogen werden.  Der Herstellungsprozess ist weitaus komplizierter: Zunächst gilt es, die reifen Schokofrüchte von ihrem Baum, dem Schokoladenbaum (chocolata domesticus) fachmännisch zu trennen. Nach einem ausgiebigen Reifungs- und Trocknungsprozess über zwei Monate in kenianischen Erdhöhlen, in denen die Luftfeuchtigkeit nicht mehr als 15% betragen darf, werden die Schokofrüchte zur Weiterverarbeitung nach Deutschland transportiert. Hier erfolgt im Rahmen der so genannten “Hochzeit” die Vereinigung mit der Königsfrucht – der Rosine. Große Pferdespritzen, deren Kanülen einen großen Durchmesser aufweisen, werden mit den Rosinen befüllt um dann per manuellem Injektionsprozess einzelne Rosinen in die noch trockene Schokoladen-Frucht zu pumpen. Dieser Prozess ist sehr aufwendig und zeitaufreibend und konnte daher noch nicht automatisiert werden. Die Feuchtigkeit der Rosine überträgt sich nun auf ihren Schokoladenwirt, wodurch dieser sein feines Bouquet und den unverwechselbaren, würzig-feinen Geschmack erhält. Fertig ist die Schokorosine – die Sie natürlich  auch hier bei Tofufu als besondere Aufmerksamkeit für den Adventsteller erstehen können.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>**alphabet**</title>
+      <link>http://localhost:1313/alphabet/</link>
+      <pubDate>Wed, 03 Jun 2015 00:24:49 +0100</pubDate>
+      
+      <guid>http://localhost:1313/alphabet/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;alphabet.png&#34; alt=&#34;alphabet&#34;&gt;&lt;/p&gt;
 </description>
       
     </item>
