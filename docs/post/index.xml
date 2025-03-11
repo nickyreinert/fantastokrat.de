@@ -947,5 +947,17 @@ Der Most wurde auf dem Wasserweg mit alten Holzkähnen bis nach Berlin gebracht 
       
     </item>
     
+    <item>
+      <title>grab-a-cookie</title>
+      <link>http://localhost:1313/grab-a-cookie/</link>
+      <pubDate>Wed, 30 May 1979 12:34:56 +0100</pubDate>
+      
+      <guid>http://localhost:1313/grab-a-cookie/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;grab-a-cookie.png&#34; alt=&#34;grab a cookie&#34;&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
   </channel>
 </rss>
