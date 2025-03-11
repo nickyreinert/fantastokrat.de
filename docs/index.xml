@@ -887,6 +887,18 @@ Der Most wurde auf dem Wasserweg mit alten Holzkähnen bis nach Berlin gebracht 
     </item>
     
     <item>
+      <title>**output**</title>
+      <link>http://localhost:1313/output/</link>
+      <pubDate>Thu, 10 May 2018 12:34:56 +0000</pubDate>
+      
+      <guid>http://localhost:1313/output/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;output.png&#34; alt=&#34;output&#34;&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>Ein Wurm</title>
       <link>http://localhost:1313/ein-wurm/</link>
       <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>

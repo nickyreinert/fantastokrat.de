@@ -140,6 +140,9 @@
     <loc>http://localhost:1313/mostbahnhof/</loc>
     <lastmod>2018-06-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/output/</loc>
+    <lastmod>2018-05-10T12:34:56+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/ein-wurm/</loc>
     <lastmod>2018-02-10T00:00:00+00:00</lastmod>
   </url><url>
